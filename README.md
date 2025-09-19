@@ -29,9 +29,6 @@ npm start
 ![alt text](public/image.png)
 ![alt text](public/image-1.png)
 ![alt text](public/image-2.png)
-## Demo Video
-[https://www.youtube.com/watch?v=v-dP18RBArc](https://www.youtube.com/watch?v=v-dP18RBArc)
-[![Demo Video Link](http://img.youtube.com/vi/v-dP18RBArc/0.jpg)](http://www.youtube.com/watch?v=v-dP18RBArc "LearnX : AI based Personalized Learning | Humanaize Hackathon EdTech Edition. Demo Video")
 
 ## What Will This Platform Actually Do?
 We are building a web-based platform that generates personalized learning roadmaps with curated resources to help users learn any new skill or subject. It will also track and visualize progress to keep learners motivated.
